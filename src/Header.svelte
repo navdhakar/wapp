@@ -8,7 +8,7 @@
 </script>
 
 <header>
-<h1>🔫💬</h1>
+<h1>Wapp</h1>
   {#if $username}
     <div class="user-bio">
       
@@ -20,6 +20,6 @@
 
     {:else}
 
-      <h3>Gun.js Chat</h3>
+      <h3>Decentralized Chat</h3>
   {/if}
 </header>
